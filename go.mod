@@ -1,4 +1,4 @@
-module Wails-vite-ts-tailwindcss-shadcn-template
+module Wails-vite-ts-tailwindcss-shadcn-template-2025
 
 go 1.23
 
